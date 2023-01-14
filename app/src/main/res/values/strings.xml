@@ -1,0 +1,432 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_name">Nba</string>
+
+    <string-array name="name_array">
+  <item>
+    <name>Gaby Lamort</name>
+  </item>
+        <item>
+    <name>Pier Quarrie</name>
+  </item>
+        <item>
+    <name>Enos Nanni</name>
+  </item>
+        <item>
+    <name>Kayley Jedryka</name>
+  </item>
+        <item>
+    <name>Danica Glenister</name>
+  </item>
+        <item>
+    <name>Ferris Murie</name>
+  </item>
+        <item>
+    <name>Panchito Cherrett</name>
+  </item>
+        <item>
+    <name>Darby Robbe</name>
+  </item>
+        <item>
+    <name>Manon Scrane</name>
+  </item>
+        <item>
+    <name>Dionis Vassay</name>
+  </item>
+        <item>
+    <name>Rozina Mcsarry</name>
+  </item>
+        <item>
+    <name>Nettle Moakes</name>
+  </item>
+        <item>
+    <name>Lou Smieton</name>
+  </item>
+        <item>
+    <name>Ezmeralda Eagle</name>
+  </item>
+        <item>
+    <name>Spense Wait</name>
+  </item>
+        <item>
+    <name>Normand Elleray</name>
+  </item>
+        <item>
+    <name>Hope Jovey</name>
+  </item>
+        <item>
+    <name>Carita Brauner</name>
+  </item>
+        <item>
+    <name>Frances Fear</name>
+  </item>
+        <item>
+    <name>Delly Semper</name>
+  </item>
+        <item>
+    <name>Abba Bagwell</name>
+  </item>
+        <item>
+    <name>Gray Melonby</name>
+  </item>
+        <item>
+    <name>Garrik Roft</name>
+  </item>
+        <item>
+    <name>Nick Gladbach</name>
+  </item>
+        <item>
+    <name>Lothario Shwalbe</name>
+  </item>
+        <item>
+    <name>Malvina Clementson</name>
+  </item>
+        <item>
+    <name>Lionel Boutell</name>
+  </item>
+        <item>
+    <name>Dreddy Trouel</name>
+  </item>
+        <item>
+    <name>Hermie Hounsom</name>
+  </item>
+        <item>
+    <name>Guinevere Gage</name>
+  </item>
+
+    </string-array>
+
+    <string-array name="ppg_array">
+  <item>
+    <ppg>17</ppg>
+  </item>
+        <item>
+    <ppg>30</ppg>
+  </item>
+        <item>
+    <ppg>9</ppg>
+  </item>
+        <item>
+    <ppg>19</ppg>
+  </item>
+        <item>
+    <ppg>22</ppg>
+  </item>
+        <item>
+    <ppg>21</ppg>
+  </item>
+        <item>
+    <ppg>1</ppg>
+  </item>
+        <item>
+    <ppg>11</ppg>
+  </item>
+        <item>
+    <ppg>3</ppg>
+  </item>
+        <item>
+    <ppg>12</ppg>
+  </item>
+        <item>
+    <ppg>10</ppg>
+  </item>
+        <item>
+    <ppg>18</ppg>
+  </item>
+        <item>
+    <ppg>30</ppg>
+  </item>
+        <item>
+    <ppg>3</ppg>
+  </item>
+        <item>
+    <ppg>6</ppg>
+  </item>
+        <item>
+    <ppg>1</ppg>
+  </item>
+        <item>
+    <ppg>30</ppg>
+  </item>
+        <item>
+    <ppg>1</ppg>
+  </item>
+        <item>
+    <ppg>20</ppg>
+  </item>
+        <item>
+    <ppg>22</ppg>
+  </item>
+        <item>
+    <ppg>21</ppg>
+  </item>
+        <item>
+    <ppg>24</ppg>
+  </item>
+        <item>
+    <ppg>18</ppg>
+  </item>
+        <item>
+    <ppg>25</ppg>
+  </item>
+        <item>
+    <ppg>29</ppg>
+  </item>
+        <item>
+    <ppg>28</ppg>
+  </item>
+        <item>
+    <ppg>15</ppg>
+  </item>
+        <item>
+    <ppg>10</ppg>
+  </item>
+        <item>
+    <ppg>13</ppg>
+  </item>
+        <item>
+    <ppg>17</ppg>
+  </item>
+
+    </string-array>
+
+    <string-array name="apg_array">
+  <item>
+    <apg>5</apg>
+  </item>
+        <item>
+    <apg>8</apg>
+  </item>
+        <item>
+    <apg>1</apg>
+  </item>
+        <item>
+    <apg>7</apg>
+  </item>
+        <item>
+    <apg>6</apg>
+  </item>
+        <item>
+    <apg>5</apg>
+  </item>
+        <item>
+    <apg>2</apg>
+  </item>
+        <item>
+    <apg>7</apg>
+  </item>
+        <item>
+    <apg>1</apg>
+  </item>
+        <item>
+    <apg>2</apg>
+  </item>
+        <item>
+    <apg>9</apg>
+  </item>
+        <item>
+    <apg>1</apg>
+  </item>
+        <item>
+    <apg>10</apg>
+  </item>
+        <item>
+    <apg>2</apg>
+  </item>
+        <item>
+    <apg>1</apg>
+  </item>
+        <item>
+    <apg>10</apg>
+  </item>
+        <item>
+    <apg>7</apg>
+  </item>
+        <item>
+    <apg>1</apg>
+  </item>
+        <item>
+    <apg>6</apg>
+  </item>
+        <item>
+    <apg>10</apg>
+  </item>
+        <item>
+    <apg>10</apg>
+  </item>
+        <item>
+    <apg>8</apg>
+  </item>
+        <item>
+    <apg>9</apg>
+  </item>
+        <item>
+    <apg>9</apg>
+  </item>
+        <item>
+    <apg>6</apg>
+  </item>
+        <item>
+    <apg>6</apg>
+  </item>
+        <item>
+    <apg>3</apg>
+  </item>
+        <item>
+    <apg>9</apg>
+  </item>
+        <item>
+    <apg>5</apg>
+  </item>
+        <item>
+    <apg>11</apg>
+  </item>
+
+    </string-array>
+
+    <string-array name="rpg_array">
+  <item>
+    <rpg>11</rpg>
+  </item>
+        <item>
+    <rpg>3</rpg>
+  </item>
+        <item>
+    <rpg>10</rpg>
+  </item>
+        <item>
+    <rpg>12</rpg>
+  </item>
+        <item>
+    <rpg>8</rpg>
+  </item>
+        <item>
+    <rpg>9</rpg>
+  </item>
+        <item>
+    <rpg>10</rpg>
+  </item>
+        <item>
+    <rpg>7</rpg>
+  </item>
+        <item>
+    <rpg>8</rpg>
+  </item>
+        <item>
+    <rpg>10</rpg>
+  </item>
+        <item>
+    <rpg>8</rpg>
+  </item>
+        <item>
+    <rpg>1</rpg>
+  </item>
+        <item>
+    <rpg>2</rpg>
+  </item>
+        <item>
+    <rpg>11</rpg>
+  </item>
+        <item>
+    <rpg>12</rpg>
+  </item>
+        <item>
+    <rpg>1</rpg>
+  </item>
+        <item>
+    <rpg>11</rpg>
+  </item>
+        <item>
+    <rpg>6</rpg>
+  </item>
+        <item>
+    <rpg>6</rpg>
+  </item>
+        <item>
+    <rpg>7</rpg>
+  </item>
+        <item>
+    <rpg>5</rpg>
+  </item>
+        <item>
+    <rpg>1</rpg>
+  </item>
+        <item>
+    <rpg>3</rpg>
+  </item>
+        <item>
+    <rpg>7</rpg>
+  </item>
+        <item>
+    <rpg>2</rpg>
+  </item>
+        <item>
+    <rpg>10</rpg>
+  </item>
+        <item>
+    <rpg>1</rpg>
+  </item>
+        <item>
+    <rpg>5</rpg>
+  </item>
+        <item>
+    <rpg>1</rpg>
+  </item>
+        <item>
+    <rpg>11</rpg>
+  </item>
+
+    </string-array>
+
+
+    <string-array name="team_array">
+
+        <item>Golden State Warriors</item>
+        <item>Los Angeles Lakers</item>
+        <item>New York Knicks</item>
+        <item>Chicago Bulls</item>
+        <item>Boston Celtics</item>
+        <item>Brooklyn Nets</item>
+
+    </string-array>
+
+    <string-array name="record_array">
+        <item>4-1</item>
+        <item>2-5</item>
+        <item>2-5</item>
+        <item>3-5</item>
+        <item>1-4</item>
+        <item>3-5</item>
+
+    </string-array>
+    <string-array name="url_array">
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3976.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3977.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3978.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3979.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3980.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3981.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3990.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3983.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3984.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3985.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3986.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3988.png&amp;w=350&amp;h=254</item>
+        <item>https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3989.png&amp;w=350&amp;h=254</item>
+    </string-array>
+
+    <string-array name="team_urls">
+
+        <item> https://1000logos.net/wp-content/uploads/2018/03/Golden-State-Warriors-logo.png </item>
+        <item>https://1000logos.net/wp-content/uploads/2017/03/Los-angeles-lakers.png</item>
+        <item>https://1000logos.net/wp-content/uploads/2017/12/New-York-Knicks-Logo.png</item>
+        <item>https://1000logos.net/wp-content/uploads/2016/11/Chicago-Bulls-Logo.png</item>
+        <item>https://1000logos.net/wp-content/uploads/2016/10/Boston-Celtics-Logo.png</item>
+        <item>https://1000logos.net/wp-content/uploads/2018/05/Brooklyn-Nets-Logo.png</item>
+    </string-array>
+
+
+</resources>

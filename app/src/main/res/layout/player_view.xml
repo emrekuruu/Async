@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <data>
+        <variable
+            name="player"
+            type="com.example.project_1.activities.model.Player" />
+        <variable
+            name="clickListener"
+            type="com.example.project_1.activities.adapter.PlayerAdapter.PlayerClickListener" />
+    </data>
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".Activities.MainActivity"
+        android:onClick="@{() -> clickListener.onClick(player)}">
+
+        <ImageView
+            android:id="@+id/playerPhoto"
+            app:playerPhoto="@{player}"
+            android:layout_width="150dp"
+            android:layout_height="150dp" />
+
+
+        <TextView
+            android:id="@+id/name"
+            android:text="@{player.name}"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/ppg"
+            android:text="@{player.PPG}"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/rpg"
+            android:text="@{player.RPG}"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/apg"
+            android:text="@{player.APG}"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+        <CheckBox
+            android:id="@+id/player_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Favorite"/>
+
+    </LinearLayout>
+</layout>
